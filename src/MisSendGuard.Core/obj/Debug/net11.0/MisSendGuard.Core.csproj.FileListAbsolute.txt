@@ -1,0 +1,13 @@
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/bin/Debug/net11.0/MisSendGuard.Core.deps.json
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/bin/Debug/net11.0/MisSendGuard.Core.dll
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/bin/Debug/net11.0/MisSendGuard.Core.pdb
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendGuard.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendGuard.Core.AssemblyInfoInputs.cache
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendGuard.Core.AssemblyInfo.cs
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendGuard.Core.csproj.CoreCompileInputs.cache
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendGuard.Core.sourcelink.json
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendGuard.Core.dll
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/refint/MisSendGuard.Core.dll
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendGuard.Core.pdb
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/ref/MisSendGuard.Core.dll
+/Users/shizhihui/ccfb/runs/15223/workspace/src/MisSendGuard.Core/obj/Debug/net11.0/MisSendG.9ECF06A6.Up2Date

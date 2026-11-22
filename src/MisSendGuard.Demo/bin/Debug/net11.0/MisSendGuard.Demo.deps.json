@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "MisSendGuard.Demo/1.0.0": {
+        "dependencies": {
+          "MisSendGuard.Core": "1.0.0"
+        },
+        "runtime": {
+          "MisSendGuard.Demo.dll": {}
+        }
+      },
+      "MisSendGuard.Core/1.0.0": {
+        "runtime": {
+          "MisSendGuard.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MisSendGuard.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MisSendGuard.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

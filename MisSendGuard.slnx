@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MisSendGuard.Core/MisSendGuard.Core.csproj" />
+    <Project Path="src/MisSendGuard.Demo/MisSendGuard.Demo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MisSendGuard.Tests/MisSendGuard.Tests.csproj" />
+  </Folder>
+</Solution>
